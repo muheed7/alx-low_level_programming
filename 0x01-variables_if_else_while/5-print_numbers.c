@@ -7,14 +7,14 @@
  */
 int main(void)
 {
-	char* num = '0';
+	int num = '0';
 
 	while (num <= '9')
 	{
-		putchar( num );
+		putchar(num);
 		num++;
 	}
-	putchar( "\n" );
+	putchar('\n');
 
 	return (0);
 

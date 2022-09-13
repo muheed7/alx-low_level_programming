@@ -3,25 +3,20 @@
 #include <time.h>
 /**
  * main - entry point
- *
+ * Description: Alphabets
  * Return: zero on success
  */
 int main(void)
 {
-	char letter = 'a';
+	int ch;
 
-	while (letter <= 'z')
-	{
-		putchar(letter);
-		letter++;
-	}
-	letter = 'A';
+	for (ch = 'a'; ch <= 'z'; ch++)
+		putchar(ch);
 
-	while (letter <= 'Z')
-	{
-		putchar(letter);
-		letter++;
-	}
-	putchar("\n");
+	for (ch = 'A'; ch <= 'Z'; ch++)
+		putchar(ch);
+
+	putchar('\n');
+
 	return (0);
 }
