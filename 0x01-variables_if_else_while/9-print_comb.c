@@ -2,10 +2,10 @@
 /**
  * main - entry point
  *
- * description: Write a program that prints all 
- * possible combinations of single-digit numbers.
+ * Description: Write a program that prints all
+ *  - possible combinations of single-digit numbers.
  *
- * return: zero on auccess
+ * Return: zero on auccess
  */
 int main(void)
 {

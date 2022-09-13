@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
  * main - entry point
- * description:  print lower alphabet in reverse
- * return: zero on success
+ * Description:  print lower alphabet in reverse
+ * Return: zero on success
  */
 int main(void)
 {

@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
  * main - entry point
- * description: print numbers with baseline 16
- * return: zero on success
+ * Description: print numbers with baseline 16
+ * Return: zero on success
  */
 int main(void)
 {
