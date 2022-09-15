@@ -2,8 +2,8 @@
 
 /**
  * main - check the code
- *
- * Return: Always 0.
+ * Description: print the complete alphabet
+ * Return: zero on success
  */
 void print_alphabet(void)
 {
