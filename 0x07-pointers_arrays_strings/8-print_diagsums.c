@@ -2,11 +2,10 @@
 /**
  * print_diagsums - prints the sum of the two diagonals
  * of a square matrix of integers
- * @a: square matrix of which we print the sum of diagonals
+ * @a: square matrix of which we print the sum of diagonal
  * @size: size of the matrix
- *
  */
-void print_daigsums(int *a, int size)
+void print_diagsums(int *a, int size)
 {
 	int i;
 
